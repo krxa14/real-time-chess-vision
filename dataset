@@ -1,1 +1,13 @@
+Dataset Used
+
+Chess Pieces Dataset (85×85)
+Source: Kaggle – Salman Sheikh
+Link: https://www.kaggle.com/datasets/s4lman/chess-pieces-dataset-85x85
+
+This dataset contains 517 images of chess pieces collected from Chess.com, resized to 85×85 pixels.
+The images are organized into six classes: bishop, king, knight, pawn, queen, and rook.
+Multiple board themes are included to capture variations in piece design and appearance.
+
+The dataset is used for image classification tasks and is suitable for training computer vision models to recognize individual chess pieces.
+
 
